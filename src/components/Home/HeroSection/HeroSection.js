@@ -4,7 +4,7 @@ import './HeroSection.css'
 
 const HeroSection = () => {
     return (
-        <div className='ml-16 pb-10 items-center'>
+        <div className='ml-16 pb-10 items-center mx-auto'>
             <div className='2xl:mr-60 md:flex row max-w-full mx-auto items-center '>
                 <div className='ml-20 mt-64 '>
                     <h1 className='text-lg md:text-[40px] font-bold '>Find The Care <br /> <br />You Need</h1>
