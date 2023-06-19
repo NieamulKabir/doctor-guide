@@ -1,0 +1,70 @@
+.shape1 {
+    position: absolute;
+    width: 338px;
+    height: 177px;
+    left: 619px;
+    top: 190px;
+
+    background: #FF8B42;
+    border-radius: 150px 150px 20px 20px;
+    transform: rotate(-180deg);
+}
+
+.shape2 {
+    position: absolute;
+    width: 338px;
+    height: 434px;
+    left: 619px;
+    top: 396px;
+
+    background: #FF8B42;
+    border-radius: 150px 150px 20px 20px;
+}
+
+
+
+.shape4 {
+    position: absolute;
+    width: 338px;
+    height: 177px;
+    left: 1004px;
+    top: 714px;
+
+    background: #0089BA;
+    border-radius: 150px 150px 20px 20px;
+}
+
+.shape3 {
+    position: absolute;
+    width: 338px;
+    height: 434px;
+    left: 1005px;
+    top: 240px;
+
+ 
+
+    background: #0089BA;
+    border-radius: 150px 150px 20px 20px;
+    transform: rotate(-180deg);
+}
+
+.doctor1 {
+    position: absolute;
+    width: 407px;
+    height: 618px;
+    left: 606px;
+    top: 247px;
+
+    background-image: url('https://i.ibb.co/4YJ3pYX/kisspng-physician-uniform-scrubs-white-coat-medicine-foreign-doctor-material-5a68c8b33322b6.png');
+}
+
+.doctor2 {
+    position: absolute;
+    width: 479px;
+    height: 792px;
+    left: 936px;
+    top: 99px;
+
+    background-image: url('https://i.ibb.co/6XPrhYS/kisspng-physician-nursing-medicine-health-care-foreign-doctor-5a6b98c3c69386.png');
+}
+
