@@ -33,6 +33,21 @@ const OurExpert = () => {
 
 
                                 </div>
+                                <div className="flex items-center">
+                                    <div className='w-[65%]'>
+                                        <h1 className=''>Dr. Emrul Kayes</h1>
+                                        <p>MBBS, FCFS, BCS, BSCBS</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
+                                    </div>
+                                    <div className='w-[35%] flex flex-col items-center'>
+                                        <p>
+                                            <i class="fa-solid fa-bookmark"></i>
+                                        </p>
+                                        <button>Book Now</button>
+                                    </div>
+
+
+                                </div>
 
                             </div>
                         </div>
