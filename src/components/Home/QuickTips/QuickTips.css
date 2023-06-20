@@ -1,24 +1,19 @@
-.shape5{
+.shape5 {
     position: absolute;
-left: 2.6%;
-right: 49.39%;
-top: 31.18%;
-bottom: 0%;
-
-/* Color-2 */
-
-background: #FF8B42;
-border-radius: 208.5px;
+    left: 2.6%;
+    right: 49.39%;
+    
+    bottom: 0%;
+    background: #FF8B42;
+    border-radius: 208.5px;
 
 }
-.img1{
+
+.img1 {
     position: absolute;
     width: 436.17px;
     height: 614px;
     left: 116.39px;
     top: 247px;
-  
-
-
-background: url("https://i.ibb.co/6XPrhYS/kisspng-physician-nursing-medicine-health-care-foreign-doctor-5a6b98c3c69386.png");
+    background: url("https://i.ibb.co/6XPrhYS/kisspng-physician-nursing-medicine-health-care-foreign-doctor-5a6b98c3c69386.png");
 }

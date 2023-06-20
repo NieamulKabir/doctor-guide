@@ -4,7 +4,7 @@ import './QuickTips.css'
 
 const QuickTips = () => {
     return (
-        <div className='mt-60 w-11/12 mx-auto'>
+        <div className='my-44 w-11/12 mx-auto'>
             <div className='flex items-center justify-evenly'>
                 <div>
                    <img className='h-[614px] w-[436px] ml-20 absolute' src="https://i.ibb.co/6XPrhYS/kisspng-physician-nursing-medicine-health-care-foreign-doctor-5a6b98c3c69386.png" alt="" />
