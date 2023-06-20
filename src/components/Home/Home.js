@@ -3,6 +3,7 @@ import HeroSection from './HeroSection/HeroSection';
 import QuickTips from './QuickTips/QuickTips';
 import DoctorsSchedule from './DoctorsSchedule/DoctorsSchedule';
 import OurCare from './OurCare/OurCare';
+import Award from './Award/Award';
 
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
             <QuickTips />
             <DoctorsSchedule />
             <OurCare />
+            <Award />
         </div>
     );
 };
