@@ -8,7 +8,7 @@ const QuickTips = () => {
             <div className='flex items-center justify-evenly'>
                 <div>
                    <img className='h-[614px] w-[436px] ml-20 absolute' src="https://i.ibb.co/6XPrhYS/kisspng-physician-nursing-medicine-health-care-foreign-doctor-5a6b98c3c69386.png" alt="" />
-                    <div className='w-[626px] h-[422px] bg-[#FF8B42] mt-[200px] me-20 rounded-full '></div>
+                    <div className='w-[626px] h-[422px] bg-[#FF8B42] mt-[193px] me-20 rounded-full '></div>
                 </div>
                 <div className='mt-36'>
                     <h1 className='font-bold text-3xl'>Sick Kid? How to Deal with a <br /> Child’s Fever: 4 Steps</h1>
