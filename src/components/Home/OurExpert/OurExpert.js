@@ -20,33 +20,16 @@ const OurExpert = () => {
 
                                 <div className="flex items-center">
                                     <div className='w-[65%]'>
-                                        <h1 className=''>Dr. Emrul Kayes</h1>
-                                        <p>MBBS, FCFS, BCS, BSCBS</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
+                                        <h1 className='text-[20px] font-semibold py-2'>Dr. Emrul Kayes</h1>
+                                        <p className='text-[16px] pb-6'>MBBS, FCFS, BCS, BSCBS</p>
+                                        <p className='text-[15px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
                                     </div>
                                     <div className='w-[35%] flex flex-col items-center'>
-                                        <p>
+                                        <p className='item-start'>
                                             <i class="fa-solid fa-bookmark"></i>
                                         </p>
-                                        <button>Book Now</button>
+                                        <button className='text-[16px] px-5 py-3 text-white rounded-md bg-[#0089BA] mt-16'>Book Now</button>
                                     </div>
-
-
-                                </div>
-                                <div className="flex items-center">
-                                    <div className='w-[65%]'>
-                                        <h1 className=''>Dr. Emrul Kayes</h1>
-                                        <p>MBBS, FCFS, BCS, BSCBS</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
-                                    </div>
-                                    <div className='w-[35%] flex flex-col items-center'>
-                                        <p>
-                                            <i class="fa-solid fa-bookmark"></i>
-                                        </p>
-                                        <button>Book Now</button>
-                                    </div>
-
-
                                 </div>
 
                             </div>
@@ -55,11 +38,19 @@ const OurExpert = () => {
                         <div>
                             <div className="card card-compact  bg-base-100 ">
                                 <figure><img className='w-[100%] h-[343px] ' src='https://i.ibb.co/PNSV0nN/Rectangle-108.png' alt="" /></figure>
-                                <div className="card-body">
-                                    <h2 className="card-title">Shoes!</h2>
-                                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                                    <div className="card-actions justify-end">
-                                        <button className="btn btn-primary">Buy Now</button>
+
+
+                                <div className="flex items-center">
+                                    <div className='w-[65%]'>
+                                        <h1 className='text-[20px] font-semibold py-2'>Dr. Emrul Kayes</h1>
+                                        <p className='text-[16px] pb-6'>MBBS, FCFS, BCS, BSCBS</p>
+                                        <p className='text-[15px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
+                                    </div>
+                                    <div className='w-[35%] flex flex-col items-center'>
+                                        <p className='item-start'>
+                                            <i class="fa-solid fa-bookmark"></i>
+                                        </p>
+                                        <button className='text-[16px] px-5 py-3 text-white rounded-md bg-[#FF8B42] mt-16'>Book Now</button>
                                     </div>
                                 </div>
                             </div>
@@ -68,11 +59,18 @@ const OurExpert = () => {
                         <div>
                             <div className="card card-compact  bg-base-100 ">
                                 <figure><img className='w-[100%] h-[343px] ' src='https://i.ibb.co/q77wkhz/Rectangle-13.png' alt="" /></figure>
-                                <div className="card-body">
-                                    <h2 className="card-title">Shoes!</h2>
-                                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                                    <div className="card-actions justify-end">
-                                        <button className="btn btn-primary">Buy Now</button>
+
+                                <div className="flex items-center">
+                                    <div className='w-[65%]'>
+                                        <h1 className='text-[20px] font-semibold py-2'>Dr. Emrul Kayes</h1>
+                                        <p className='text-[16px] pb-6'>MBBS, FCFS, BCS, BSCBS</p>
+                                        <p className='text-[15px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna.</p>
+                                    </div>
+                                    <div className='w-[35%] flex flex-col items-center'>
+                                        <p className='item-start'>
+                                            <i class="fa-solid fa-bookmark"></i>
+                                        </p>
+                                        <button className='text-[16px] px-5 py-3 text-white rounded-md bg-[#FF8B42] mt-16'>Book Now</button>
                                     </div>
                                 </div>
                             </div>

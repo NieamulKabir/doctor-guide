@@ -22,7 +22,7 @@ const Navbar = () => {
                             <div className="relative top-[]">
                                 <p className='font-mono font-extrabold text-base flex items-center text-[#FF8B42]  md:text-[28px] my-[10px]'>
                                     <img className='md:w-[49px] md:h-[55px] md:ml-[70px]' src={logo} alt="" />
-                                    <i className="fa-solid fa-earth-asia"></i> Doctor Guide
+                                     Doctor Guide
                                 </p>
                             </div>
                         </Link>
